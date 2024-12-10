@@ -1,0 +1,1 @@
+{"name":"Local: pbAb","url":"c:\\Users\\HP\\Desktop\\cp\\codeforces problems\\Rayan-contest\\pbAb.cpp","tests":[{"id":1732982744537,"input":"3\n5 1 1\n10101\n5 2 1\n10101\n7 4 4 \n00001110000\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\Desktop\\cp\\codeforces problems\\Rayan-contest\\pbAb.cpp","group":"local","local":true}

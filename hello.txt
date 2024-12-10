@@ -1,0 +1,7 @@
+1. Downloading a compiler(VS code/code blocks/clion...)
+2. why c++ and not anything else?
+3. how to take input and output
+4. loops and their different types
+4. common data types(int, char, bool, static array)
+5. complexity
+6. solve a problem together
